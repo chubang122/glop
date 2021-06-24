@@ -1,7 +1,7 @@
 # This is free software, lisence use MIT.
 # Copyright (C) https://github.com/yfdoor
 
-name: OpenWrt-Build
+name: glopssr
 
 # 触发条件
 on:
